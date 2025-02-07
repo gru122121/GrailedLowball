@@ -1,0 +1,39 @@
+{
+  "ALGOLIA": {
+    "APP_ID": "MNRWEFSS2Q",
+    "API_KEY": "bc9ee1c014521ccf312525a4ef324a16"
+  },
+  "OPENAI": {
+    "API_KEY": ""
+  },
+  "GRAILED": {
+    "DESIGNER": "visvim",
+    "MONITORING_INTERVAL": 60000,
+    "LOWBALL_PERCENTAGE": 0.5,
+    "BASE_URL": "https://www.grailed.com",
+    "API_HEADERS": {
+      "accept": "application/json",
+      "accept-language": "en-GB,en;q=0.9",
+      "accept-version": "v1",
+      "cache-control": "no-cache",
+      "content-type": "application/json",
+      "origin": "https://www.grailed.com",
+      "pragma": "no-cache",
+      "priority": "u=1, i",
+      "sec-ch-ua": "\"Not A(Brand\";v=\"8\", \"Chromium\";v=\"132\", \"Brave\";v=\"132\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin",
+      "sec-gpc": "1",
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+    }
+  },
+  "AUTH": {
+    "csrf": "",
+    "cookie": "",
+    "deviceId": "",
+    "xCsrfToken": ""
+  }
+}
